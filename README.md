@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm new to GitHub and excited to start my journey in coding and collaboration. I'm currently learning and exploring new technologies to improve my skills. I'm especially interested in:<br><br>Learning programming languages like Python, JavaScript, or HTML/CSS<br><br>Working on small projects to build my portfolio<br><br>Collaborating with others and contributing to open source<br><br>I'm here to grow, share, and connect with developers around the world. Feel free to check out my repositories, give feedback, or just say hi!
+Hi there! I'm new to GitHub and excited to start my journey in coding and collaboration. I'm currently learning and exploring new technologies to improve my skills. I'm especially interested in:<br><br>Learning programming languages like Python,  or HTML/CSS<br><br>Working on small projects to build my portfolio<br><br>Collaborating with others and contributing to open source<br><br>I'm here to grow, share, and connect with developers around the world. Feel free to check out my repositories, give feedback, or just say hi!
 
 
 ## 🌐 Socials:
